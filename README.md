@@ -4,12 +4,12 @@ This project implements a simple image carousel using arrays in JavaScript. The 
 
 [View Website](https://raw.githack.com/nrosanes3/Image-Carousel-Javascript/main/index.html)
 
-##Features
+## Features
 * Array methods for iterating over a list of images
 * Click event listener for carousel controls
 * Logic for navigating between images and updating the display accordingly
 
-##Skills showcased
+## Skills showcased
 * JavaScript array manipulation
 * Event handling and bubbling
 * DOM manipulation
